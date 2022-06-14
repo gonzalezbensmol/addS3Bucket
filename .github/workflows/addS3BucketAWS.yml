@@ -1,4 +1,3 @@
-
 name: addS3BucketAWS
 # Controls when the action will run. 
 on:
